@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Labada
 
-## Getting Started
+Laundry shop management system that helps you and your customers track orders.
 
-First, run the development server:
+🏷️ **Status:** Archived \
+🤖 **Vibe Coded:** No
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## What it does
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Kanban board so managing orders is as simple as drag and drop.
+- Customer public links so they can view the statuses of their laundry on the web.
+- Profit tracking and simple analytics to give business owners insights.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Demo / Screenshot
 
-## Learn More
+<!-- Add if you can. If the project can't run anymore, just leave a note: -->
+<!-- ⚠️ Can't currently run this to generate a fresh screenshot — README text stands in for now. -->
 
-To learn more about Next.js, take a look at the following resources:
+https://github.com/user-attachments/assets/755db81d-3715-46ed-938c-a064c9907c88
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+https://github.com/user-attachments/assets/b007c57b-e559-41e5-a81b-666c62ea13b1
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Tech Stack
 
-## Deploy on Vercel
+Typescript · Next.js · Firebase
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Notes
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- The manual drag and drop is the biggest friction that's in the platform, automating it or semi-automating it would be the next step.
